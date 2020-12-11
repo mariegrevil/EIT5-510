@@ -1,7 +1,0 @@
-C:\Users\marie\source\repos\CsharpNet47\CsharpNet47\bin\Release\CsharpNet47.exe.config
-C:\Users\marie\source\repos\CsharpNet47\CsharpNet47\bin\Release\CsharpNet47.exe
-C:\Users\marie\source\repos\CsharpNet47\CsharpNet47\bin\Release\CsharpNet47.pdb
-C:\Users\marie\source\repos\CsharpNet47\CsharpNet47\obj\Release\CsharpNet47.csproj.CoreCompileInputs.cache
-C:\Users\marie\source\repos\CsharpNet47\CsharpNet47\obj\Release\CsharpNet47.exe
-C:\Users\marie\source\repos\CsharpNet47\CsharpNet47\obj\Release\CsharpNet47.pdb
-C:\Users\marie\source\repos\CsharpNet47\CsharpNet47\obj\Release\CsharpNet47.csprojAssemblyReference.cache
